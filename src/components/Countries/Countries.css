@@ -7,3 +7,6 @@
     background-color: rgb(219, 32, 94);
     color: black;
 }
+.flag-container img {
+    width: 100px;
+}
